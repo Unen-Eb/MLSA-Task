@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "suitcase";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Eco-Children South Africa",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Worked with a non-profit organization- Eco Children South Africa to foster an inclusive intercultural education while aiming towards educational and environmental sustainability.",
+    url: "file:///C:/Users/nenna/Downloads/ECO%20Children%20Marketing%20Report%20Final%20(1).pdf",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Lululemon Creative Brief",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Pitched digital product strategy. Develop concepts for a new digital product and customer experience.",
+    url: "https://tennesseetechuniversity-my.sharepoint.com/:p:/g/personal/uebiefung42_tntech_edu/EQiAvpezmYpOifqzwVdYrjsBBjtGZXOaQyS967AssPyykA?email=uebiefung42%40tntech.edu&e=B8Kamo%5C",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My Resume Showing my projects and experiences.",
+    url: "file:///C:/Users/nenna/Downloads/Unen's%20Resume%202023%20Sept%20(1).pdf",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "",
+    url: "",
   },
 ];
 
